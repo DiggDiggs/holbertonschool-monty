@@ -1,1 +1,0 @@
-/root/holbertonschool-monty/monty.h
